@@ -1,6 +1,7 @@
 -i https://packages.idmod.org/api/pypi/pypi-production/simple
-dtk_hiv_intrahost
-dtk_hivdelayed_iv
-dtk_artbasic_iv
-dtk_malecirc_iv
-dtk_modcoinf_iv
+#dtk_hiv_intrahost
+#dtk_hivdelayed_iv
+#dtk_artbasic_iv
+#dtk_malecirc_iv
+#dtk_modcoinf_iv
+emodpy_generic
