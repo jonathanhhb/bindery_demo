@@ -5,3 +5,4 @@
 #dtk_malecirc_iv
 #dtk_modcoinf_iv
 emodpy_generic
+emod-measles
