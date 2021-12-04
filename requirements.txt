@@ -4,6 +4,6 @@
 #dtk_artbasic_iv
 #dtk_malecirc_iv
 #dtk_modcoinf_iv
-emodpy_generic
-emod-measles
-emodpy~=1.16
+#emodpy_generic
+#emod-measles
+emodpy-hiv # latest
