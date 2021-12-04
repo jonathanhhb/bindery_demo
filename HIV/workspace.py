@@ -5,7 +5,7 @@ workdir = tempfile.mkdtemp( prefix="/var/tmp/" )
 source = os.listdir(".")
 
 for files in source:
-    if files.endswith(".py") or files == "dtk_centos.id":
+    if files.endswith(".py") or files.endswith( ".csv" ) or files == "dtk_centos.id":
         shutil.copy(files, workdir)
 
 os.chdir( workdir )
