@@ -7,7 +7,7 @@ workdir = tempfile.mkdtemp( prefix=tmp_prefix_dir )
 
 source = os.listdir(".")
 for files in source:
-    if files.endswith(".py") or files == "dtk_centos.id":
+    if files.endswith(".py") or files.endswith( ".csv" ) or files == "dtk_centos.id":
         shutil.copy(files, workdir)
 
 os.mkdir( os.path.join( workdir, "ep4_dir" ) )
