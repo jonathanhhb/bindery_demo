@@ -1,5 +1,5 @@
 # bindery_demo
-Quick Python Notebook demo for test out binder
+Public repo of IDM EMOD Python Jupyter Notebooks to test with Binder.
 
 If you are unfamiliar with Jupyter notebooks, [Codecademy](https://www.codecademy.com/articles/getting-started-with-jupyter) has a Getting started tutorial that walks through the basics of using Jupyter to run code on the web. The [Jupyter docs](https://jupyter.org/documentation) are also a great resource for more detailed information.
 
