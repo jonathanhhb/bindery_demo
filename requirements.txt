@@ -1,2 +1,2 @@
 -i https://packages.idmod.org/api/pypi/pypi-production/simple
-emodpy-tbhiv # latest
+emodpy-tbhiv==0.1.7
